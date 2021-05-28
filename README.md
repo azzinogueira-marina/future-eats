@@ -5,7 +5,7 @@
 - Aline Vignoli
 - Diana Monteiro
 - Fernanda Alfonsi
-- Marina Nogueira
+- Marina Azzi Nogueira
 - Nicole Zolnier
 
 ### Link do Surge:
