@@ -1,7 +1,7 @@
 # FutureEats
 
 
-### Nome dos integrantes: 
+### Nome das integrantes: 
 - Aline Vignoli
 - Diana Monteiro
 - Fernanda Alfonsi
